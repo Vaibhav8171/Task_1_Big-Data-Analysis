@@ -28,3 +28,7 @@ CodTech Internship Task - 1
  5. Show final outputs and optionally save results
  Final Deliverable
  Deliverable:- A complete PySpark script or notebook analyzing the dataset- Includes data cleaning, aggregation, and insights- Task completed successfully according to internship guideline.
+# output :
+
+![Image](https://github.com/user-attachments/assets/66a556ac-7955-4794-893d-4ac86f81b5db)
+![Image](https://github.com/user-attachments/assets/a7846492-471f-4b2f-8f58-d8c821eb9406)
